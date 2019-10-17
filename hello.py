@@ -1,3 +1,4 @@
-print("Hello") 
-print("1")
-print("2")
+print("Hello world") 
+print("Tell your world")
+print("Tell his world")
+print("Tell her world")
