@@ -1,6 +1,8 @@
 // For command line git Chapter3
-// Local repository modification
+// First:GitHub modification
+// second:Local repository modification
 
-print("Hello")
+print("Hello ") 
 print("1")
 print("2")
+
